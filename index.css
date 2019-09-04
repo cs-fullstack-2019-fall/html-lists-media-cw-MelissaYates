@@ -1,0 +1,45 @@
+
+.round{
+    border-radius: 10px;
+
+}
+
+
+body{
+    background-color: lightyellow;
+}
+#pic{
+    list-style-image: url("./img/cake.PNG");
+    padding-right: 35px;
+
+    }
+footer{
+    background-color: lawngreen;
+    clear: both;
+    text-align: center;
+    border-radius: 10px;
+}
+aside{
+    float: left;
+    margin: 10px;
+    padding-left: 35px;
+    background-color: cadetblue;
+    width: 650px;
+    height: 500px;
+
+}
+section{
+    float:right
+}
+header{
+    text-align: center;
+    font-family: Fira Code;
+    background-color: gray;
+    color: red;
+    border-radius: 10px;
+    margin: 10px;
+}
+#move{
+    width: 800px;
+    height: 550px;
+}
